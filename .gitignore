@@ -1,0 +1,23 @@
+# Build e debug
+bin/
+obj/
+*.pdb
+*.exe
+*.dll
+
+# Diretórios de configuração
+.vscode/
+.idea/
+*.vs/
+
+# Logs e caches
+*.log
+*.cache
+*.userosscache
+*.suo
+*.user
+
+# Configurações de dependências
+project.lock.json
+*.nuget/
+
