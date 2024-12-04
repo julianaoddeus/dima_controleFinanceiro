@@ -4,6 +4,9 @@ obj/
 *.pdb
 *.exe
 *.dll
+*.props
+*.targets
+*.assets.json
 
 # Diretórios de configuração
 .vscode/
